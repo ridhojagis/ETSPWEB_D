@@ -14,8 +14,8 @@
     text-align: left;
     outline: none;
     font-size: 18px;
-    border-radius: 10px 10px 0px 0px;
-    border: 3px solid white;
+    border-radius: 5px 5px 0px 0px;
+    border: 3px solid #C70039;
     border-bottom: none;
 }
 
@@ -132,7 +132,7 @@
 .botText span {
     line-height: 1.5em;
     display: inline-block;
-    background: #e0e0e0;
+    background: rgb(235, 235, 235);
     padding: 10px;
     border-radius: 8px;
     border-bottom-left-radius: 2px;
@@ -166,7 +166,7 @@
     .collapsible {
         width: 100%;
         border: 0px;
-        border-top: 3px solid white;
+        border-top: 3px solid rgb(255, 255, 255);
         border-radius: 0px;
     }
 }
